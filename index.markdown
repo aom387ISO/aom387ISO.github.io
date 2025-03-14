@@ -11,11 +11,11 @@ title: Bienvenido
 
 Estudiante de ingeniería informática en la UAL en su último año de carrera con experiencia en tecnologías como C, Java, Swift, React y Node.js.
 
-Además de la programación, disfruto mucho de la lectura. Algunos de mis libros favoritos son:
+Además de la programación, disfruto mucho de la lectura. Algunas de mis sagas de fantasía favoritas son:
 
-- *El Nombre del Viento* de Patrick Rothfuss
-- *El Imperio Final* de Brandon Sanderson
-- *Trenza del Mar Esmeralda* de Brandon Sanderson
+- *Crónicas del Asesino de Reyes* de Patrick Rothfuss
+- *Nacidos de la Bruma* de Brandon Sanderson
+- *Canción de Hielo y Fuego* de George R.R. Martin
 
 También me encanta leer manga. Tres de mis favoritos son:
 
